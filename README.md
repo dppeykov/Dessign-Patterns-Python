@@ -8,4 +8,5 @@ A common way to solve problems. The design patters rely strongly on the OOP para
    - **Factory pattern** - see factory_method.py - example of a store selling only dogs and starting selling cats
 
 2. **Structural** - yields different structures - uses inheritance (parent-child classes)
-3. **Bahavioral** - best interactions between objects - methods and their signaures
+     - **Decorator** - adding additional features to an object without adding a subclass - @ - see decorator.py
+4. **Bahavioral** - best interactions between objects - methods and their signaures
